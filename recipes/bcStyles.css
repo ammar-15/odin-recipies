@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(248, 245, 241);
+}
+
+.heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#main {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+#sub {
+    font-size: 30px;
+}
+
+.butter-chicken {
+    height: auto;
+    width: 400px;
+}
+
+.List{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.List {
+    padding: 30px;
+    text-align:center;
+}
