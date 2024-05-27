@@ -21,10 +21,12 @@ body {
 }
 
 .List{
+    display: flex;
+    background: aquamarine;
+    border: 4px saddlebrown;
+    height: 220px;
+    margin-top: 10px;
+    flex: 2;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-.List {
-    padding: 30px;
-    text-align:center;
+    
 }
